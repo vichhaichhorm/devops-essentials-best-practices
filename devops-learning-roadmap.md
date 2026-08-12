@@ -1,6 +1,6 @@
 # DevOps & Development Learning Roadmap
 
-A progressive curriculum from zero to working proficiency. Time estimates assume ~8–10 hours/week.
+A progressive curriculum from zero to working proficiency. Time estimates assume ~8–10 hours/week. 
 
 **How to use this:** Check off lessons as you complete them. Build something small and real at the end of every section — the tooling only sticks through repetition.
 
