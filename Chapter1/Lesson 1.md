@@ -31,3 +31,24 @@ With a good DevOps process, the team can make releases more consistent, reduce r
 Remember this definition: ***DevOps is a combination of practices, collaboration, and automation that helps teams develop, test, release, and operate software more reliably and efficiently.
 ==============================================================
 1.2 Why Do Companies Use DevOps?
+Consider these two situations:
+
+Situation A: Without DevOps practices
+A developer finishes a new feature.
+.The developer sends code to another team member manually.
+.Someone copies files to the server.
+.The server configuration is changed manually.
+.Nobody verifies that the correct version was deployed.
+.The application stops working because a configuration value is missing.
+.The team spends hours investigating the problem.
+
+Situation B: With DevOps practices
+A developer finishes the same feature.
+.The developer pushes the code to GitLab.
+.The code is reviewed and merged into the appropriate branch.
+.Jenkins runs automated checks and tests.
+.The application is built into a Docker image.
+.The image is deployed to UAT.
+.The team tests and approves the release.
+.Jenkins deploys the approved version to production.
+.The team checks application health and logs.
